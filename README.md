@@ -6,4 +6,4 @@ Heroku server : https://wab23avula.herokuapp.com/
 
 Class : handbag
 
-Attributes : Dimensions,Color,Price
+Attributes : Dimensions(String),Color(String),Price(Number)
